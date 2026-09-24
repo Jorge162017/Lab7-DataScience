@@ -1,0 +1,6 @@
+data/raw/
+data/parquet/
+data/outputs/
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
